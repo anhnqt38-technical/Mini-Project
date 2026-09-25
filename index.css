@@ -1,14 +1,9 @@
-/* ================= RESET CHUNG ================= */
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Mulish', sans-serif, system-ui;
 }
-
-
-/* ================= PHẦN 1: LEADING HEALTHCARE ================= */
 
 .Leading {
     display: flex;
@@ -47,7 +42,6 @@
     height: 2px;
     background-color: #000000;
     margin: 0 0 25px 0;
-    /* Căn trái */
     border-radius: 5px;
 }
 
@@ -57,7 +51,6 @@
     line-height: 1.7;
     margin-bottom: 30px;
     text-align: left;
-    /* Căn trái */
 }
 
 .btn {
@@ -76,9 +69,6 @@
     background-color: #458ff6;
     color: #ffffff;
 }
-
-
-/* ================= PHẦN 2: DOWNLOAD MOBILE APPS ================= */
 
 .download-section {
     display: flex;
@@ -107,7 +97,6 @@
     height: 2px;
     background-color: #000000;
     margin: 0 0 25px 0;
-    /* Căn trái */
     border-radius: 5px;
 }
 
@@ -117,7 +106,6 @@
     line-height: 1.7;
     margin-bottom: 30px;
     text-align: left;
-    /* Căn trái */
 }
 
 .btn-download {
